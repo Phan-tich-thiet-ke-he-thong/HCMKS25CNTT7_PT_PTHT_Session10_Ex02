@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3sNoRlAauOabeujqCuAO">
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-91" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: SFProDisplay; text-align: start; background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: SFProDisplay; text-align: start; background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 16.8px; color: light-dark(rgb(199, 37, 78), rgb(255, 255, 255));&quot;&gt;Cổng Thanh Toán&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="260" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-92" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="300" width="20" x="110" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Khách hàng" vertex="1">
+          <mxGeometry height="30" width="70" x="85" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-94" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255); color: light-dark(rgb(199, 37, 78), rgb(255, 255, 255));&quot;&gt;Ngân Hàng Lõi&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="450" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-95" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(255, 255, 255), rgb(254, 254, 254));&quot;&gt;EmailServer&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="630" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-97" edge="1" parent="1" source="Xq9mq9J06hs5M4qXqAD7-92" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;align=center;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: SFProDisplay; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);&quot;&gt;nhập thẻ tín dụng&lt;/span&gt;">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="310" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-98" edge="1" parent="1" source="Xq9mq9J06hs5M4qXqAD7-96" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="Xq9mq9J06hs5M4qXqAD7-91" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="430" as="sourcePoint" />
+            <mxPoint x="520" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-99" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="Xq9mq9J06hs5M4qXqAD7-96" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="315" y="430" as="sourcePoint" />
+            <mxPoint x="315" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-96" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="200" width="10" x="310" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-106" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="315" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-107" edge="1" parent="1" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="Xq9mq9J06hs5M4qXqAD7-106" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: SFProDisplay; font-size: 14px; white-space: normal; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;kiểm tra thẻ&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="240" />
+            </Array>
+            <mxPoint x="320" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-111" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" target="Xq9mq9J06hs5M4qXqAD7-94" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="505" y="440" as="sourcePoint" />
+            <mxPoint x="520" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-112" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="500" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-113" edge="1" parent="1" source="Xq9mq9J06hs5M4qXqAD7-96" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" target="Xq9mq9J06hs5M4qXqAD7-112" value="&lt;span style=&quot;font-family: SFProDisplay; font-size: 14px; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); color: light-dark(rgb(199, 37, 78), rgb(255, 255, 255));&quot;&gt;processPayment()&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="275" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-114" edge="1" parent="1" source="Xq9mq9J06hs5M4qXqAD7-112" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" target="Xq9mq9J06hs5M4qXqAD7-96" value="Kết quả giao dịch">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-115" edge="1" parent="1" style="endArrow=open;html=1;rounded=0;endFill=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="370" as="sourcePoint" />
+            <mxPoint x="120" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-116" connectable="0" parent="Xq9mq9J06hs5M4qXqAD7-115" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hiển thị thành công" vertex="1">
+          <mxGeometry relative="1" x="0.1242" y="-4" as="geometry">
+            <mxPoint x="7" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-117" edge="1" parent="1" style="endArrow=block;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="400" as="sourcePoint" />
+            <mxPoint x="690" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-119" connectable="0" parent="Xq9mq9J06hs5M4qXqAD7-117" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: SFProDisplay; font-size: 14px; text-align: start; white-space: normal; background-color: rgb(255, 255, 255); color: light-dark(rgb(199, 37, 78), rgb(255, 255, 255));&quot;&gt;sendReceiptEmail()&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2389" y="2" as="geometry">
+            <mxPoint x="21" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xq9mq9J06hs5M4qXqAD7-118" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="440" as="sourcePoint" />
+            <mxPoint x="690" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
